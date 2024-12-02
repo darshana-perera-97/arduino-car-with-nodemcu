@@ -1,0 +1,2 @@
+- connect D1, D2, D3, D4 to L298D moter shiled
+- connect GND to motershiled middle pin
